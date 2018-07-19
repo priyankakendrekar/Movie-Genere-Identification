@@ -1,5 +1,5 @@
-# Movie-Genere-Identification
-Movie geenre classification by movie plot.
+# Movie-Genre-Identification
+Movie genre classification by movie plot.
 ## Aim: 
 Given a plot story of movie (more than 50 characters), identify its Genre (Total 19 Genres)
 ## Dataset: 
