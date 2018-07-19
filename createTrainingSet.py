@@ -36,7 +36,7 @@ def getNewDict(data):
     return newDict
 
 
-with open('data/trainingSet.csv','wb') as csvfile:
+with open('omdbdata1.csv','wb') as csvfile:
     csvwriter = csv.DictWriter(csvfile, fieldNames, extrasaction='ignore')
     csvwriter.writeheader()
 

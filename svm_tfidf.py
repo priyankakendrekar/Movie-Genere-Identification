@@ -7,7 +7,7 @@ import sys
 import os
 sys.stdout = open('logsvm_tfidf', 'w')
 
-data_features = preprocess("../data/trainingSet_backup.csv")
+data_features = preprocess("../omdbdata1.csv")
 train_data, test_data = train_test_split(data_features, test_size=0.1, random_state=42)
 
 vectorizer = TfidfVectorizer(min_df=2, tokenizer=None, preprocessor=None, stop_words=None)
