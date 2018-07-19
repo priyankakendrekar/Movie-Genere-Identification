@@ -1,0 +1,168 @@
+data_features   (0, 11973)	0.39183576131598663
+  (0, 10771)	0.2863940399500359
+  (0, 9718)	0.17741319614606343
+  (0, 7287)	0.285050777382107
+  (0, 6727)	0.24106455681426728
+  (0, 6474)	0.2732837465781102
+  (0, 5198)	0.1909736360330634
+  (0, 4524)	0.17321331777398882
+  (0, 4300)	0.17868041672183416
+  (0, 1932)	0.292156816245275
+  (0, 1893)	0.31996415803450146
+  (0, 1328)	0.2682926011183355
+  (0, 542)	0.3431105078828992
+  (0, 350)	0.20755431316315556
+  (1, 11497)	0.13214081731941593
+  (1, 10926)	0.11433725871989632
+  (1, 10500)	0.10471144942801393
+  (1, 10304)	0.0854435660709108
+  (1, 10117)	0.45533773308760644
+  (1, 10060)	0.11583868375975728
+  (1, 9677)	0.09955871952292102
+  (1, 8611)	0.36806003074109195
+  (1, 8604)	0.1907226550450356
+  (1, 8268)	0.25244222605802935
+  (1, 7491)	0.0629001080178126
+  :	:
+  (445, 4685)	0.05818980575118977
+  (445, 4225)	0.10797016751611475
+  (445, 4189)	0.09300575189944621
+  (445, 4144)	0.057620262211453506
+  (445, 3974)	0.11810025133340324
+  (445, 3778)	0.1131777466614767
+  (445, 3720)	0.09417401884734526
+  (445, 3626)	0.1484023299127222
+  (445, 3589)	0.12488289780346395
+  (445, 3502)	0.1029249379338167
+  (445, 3345)	0.1702181144525476
+  (445, 3014)	0.13064750105038175
+  (445, 2919)	0.10931165927819692
+  (445, 2793)	0.08074357665590312
+  (445, 2501)	0.07962926460620108
+  (445, 2173)	0.0967644095612184
+  (445, 2041)	0.1330646669500718
+  (445, 1389)	0.07158309051266369
+  (445, 993)	0.4174663157096921
+  (445, 796)	0.10342091019017009
+  (445, 652)	0.1285154096241271
+  (445, 645)	0.08786902159185886
+  (445, 589)	0.0739878875325124
+  (445, 425)	0.12185890899517542
+  (445, 358)	0.06266835261634836 predictions: ['other' 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other' 'other'
+ 'other' 'Comedy' 'other' 'other' 'other' 'Comedy' 'Comedy' 'other'
+ 'other' 'other' 'Comedy' 'other' 'Comedy' 'other' 'other' 'other' 'other'
+ 'Comedy' 'other' 'other' 'other' 'Comedy' 'other' 'Comedy' 'other'
+ 'Comedy' 'other' 'Comedy' 'other' 'Comedy' 'other' 'other' 'other'
+ 'other' 'other' 'Comedy' 'other' 'other' 'other' 'Comedy' 'other' 'other'
+ 'Comedy' 'other' 'Comedy' 'Comedy' 'other' 'Comedy' 'other' 'Comedy'
+ 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'Comedy' 'other' 'Comedy'
+ 'other' 'Comedy' 'other' 'Comedy' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other' 'other' 'other'
+ 'Comedy' 'Comedy' 'Comedy' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other' 'other' 'other'
+ 'Comedy' 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'Comedy' 'Comedy' 'Comedy' 'Comedy'
+ 'other' 'other' 'Comedy' 'other' 'other' 'Comedy' 'other' 'other' 'other'
+ 'other' 'other' 'Comedy' 'other' 'other' 'Comedy' 'other' 'other'
+ 'Comedy' 'other' 'Animation' 'Comedy' 'other' 'Comedy' 'other' 'Comedy'
+ 'other' 'other' 'other' 'Comedy' 'other' 'other' 'Comedy' 'Comedy'
+ 'other' 'other' 'other' 'other' 'Comedy' 'Comedy' 'Comedy' 'other'
+ 'Comedy' 'Comedy' 'other' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'Comedy' 'other' 'other' 'Comedy' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'Animation' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'Comedy' 'Comedy' 'other' 'other'
+ 'other' 'other' 'Comedy' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'Comedy' 'other' 'Comedy' 'other' 'other' 'Comedy'
+ 'Comedy' 'other' 'Comedy' 'other' 'other' 'Comedy' 'other' 'Comedy'
+ 'other' 'other' 'other' 'other' 'other' 'Comedy' 'Comedy' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'Animation' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'Comedy' 'other' 'Comedy' 'other'
+ 'Comedy' 'Comedy' 'other' 'other' 'other' 'Comedy' 'other' 'other'
+ 'other' 'Comedy' 'Comedy' 'other' 'Comedy' 'other' 'other' 'Comedy'
+ 'Comedy' 'other' 'other' 'other' 'other' 'other' 'Comedy' 'other'
+ 'Comedy' 'other' 'Comedy' 'other' 'other' 'Comedy' 'Comedy' 'Comedy'
+ 'other' 'other' 'other' 'other' 'Comedy' 'Comedy' 'other' 'other'
+ 'Comedy' 'Comedy' 'Comedy' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'Comedy' 'other' 'other' 'other' 'Comedy' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'Comedy' 'Comedy' 'Comedy' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'Comedy' 'other' 'Comedy' 'other' 'other' 'other' 'Comedy'
+ 'other' 'other' 'Comedy' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'Comedy' 'other' 'other' 'Comedy' 'other' 'Comedy'
+ 'Animation' 'other' 'Comedy' 'other' 'other' 'other' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other'
+ 'Comedy' 'other' 'other' 'other' 'Comedy' 'Comedy' 'other' 'other'
+ 'other' 'Comedy' 'other' 'other' 'other' 'other' 'Comedy' 'other' 'other'
+ 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'other' 'Comedy'
+ 'other' 'other' 'Comedy' 'other' 'other' 'other' 'Comedy' 'other'
+ 'Comedy' 'Animation' 'other' 'other' 'other'] target 1488       Comedy
+2028       Comedy
+599        Comedy
+969         other
+803         other
+1163        other
+4330        other
+478         other
+2390        other
+468         other
+1024       Comedy
+497         other
+3697        other
+2636        other
+1289       Comedy
+1919        other
+4177        other
+1588        other
+3392        other
+2505        other
+199         other
+680        Comedy
+2185       Comedy
+4104    Animation
+1485        other
+705         other
+856        Comedy
+2236        other
+3240        other
+2873       Comedy
+          ...    
+642        Comedy
+3606       Comedy
+1231        other
+152         other
+2399        other
+3596        other
+3011       Comedy
+2078        other
+3527        other
+2594        other
+3188        other
+8           other
+2907        other
+1029        other
+2882        other
+1578       Comedy
+3930       Comedy
+2765       Comedy
+1047        other
+2498       Comedy
+3940       Comedy
+897         other
+798        Comedy
+309        Comedy
+3435        other
+3489       Comedy
+2929    Animation
+4336       Comedy
+1432        other
+3516        other
+Name: tags, Length: 446, dtype: object
+accuracy 0.7286995515695067
+precision [0.8        0.66055046 0.75      ]
+recall [0.23529412 0.49655172 0.87676056]
+f-measure [0.36363636 0.56692913 0.80844156]
